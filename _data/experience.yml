@@ -1,19 +1,18 @@
 # Jobs
-# Springfield Nuclear Power Plant
-- company: Springfield Nuclear Power Plant
-  position: Safety Inspector
-  duration: Nov, 1980 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>Ate lots of donuts</li><li>Fell asleep rarely</li><li>Left promptly at end of day (sometimes earlier)</li></ul>
+# SQASquared
+- company: SQASquared
+  position: Junior QA Analyst II
+  duration: Feb, 2017 &mdash; Sept, 2017
+  summary: Serve as point of contact for onsite members in identifying, realizing, and executing test cases and create reports and feedback for failing and undocumented behavior of system under test.<ul class="resume-item-list"><li>Ticketmaster client</li><ul class="resume-item-list"><li>CCP regression automation maintenance using HTML, CSS, Java, Cucumber, and Selenium</li><li>CORCH API testing using Postman and Javascript</li></ul><li>Advantage Sales and Marketing client</li><ul><li>Web app testing using TFS and MS SQL Server</li><li>Angular web app test automation using Python and PyTractor</li></ul>
 
-# Windmill Crank Operator
-- company: Sir Putt-A-Lot's Merrie Olde Fun Centre
-  position: Safety Inspector
-  duration:  Jun, 1978 &mdash; Sept, 1979
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+# Nokia Networks
+- company: Nokia Networks
+  position: R&D Engineer
+  duration:  Jul, 2014 &mdash; Nov, 2016
+  summary: Part of LTE Tools team providing feature update and maintenance for internal tools for the DOCOMO project.<ul class="resume-item-list"><li>Designed and implemented commandline interface adapters for legacy Windows applications for integration to CI/CD pipeline using Python and Robot Framework</li><li>Designed and implemented test libraries for automated functional and regression tests using Robot Framework</li><li>RTOS(VxWorks) development</li><li>Embedded system development (LKM, device drivers)</li><li>Linux and Windows shell scripting</li>
 
-
-# Front Desk Attendant
-- company: Simpson Lazer Tag
-  position: Front Desk Attendant
-  duration:   Jun, 1975  &mdash; May, 1978
-  summary: Boy, when Marge first told me she was going to the Police Academy, I thought it would be fun and exciting, you know, like the movie... Spaceballs. But instead, it's been painful and disturbing, like the movie Police Academy.
+# FTSP
+- company: Fujitsu Ten Solutions Philippines
+  position: Systems Engineer
+  duration:   Jan, 2012  &mdash; Jun, 2014
+  summary: Part of Car Infotainment team developing LCD display drivers and USB/IPOD interfaces for Toyota client

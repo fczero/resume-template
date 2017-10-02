@@ -1,6 +1,6 @@
 # Degree
-- degree: Associates Degree, Business Management
-  uni: Springfield College
-  year: 1984 &mdash; 1986
-  awards: Quickest to fall asleep
-  summary: If you had any meaningful roles at college, feel free to write about them here
+- degree: Bachelor's Degree, Electronics and Communications Engineering
+  uni: Don Bosco Technical College
+  year: 2005 &mdash; 2011
+  #  awards: Quickest to fall asleep
+  summary: Completed with the final thesis of effects of spray patterns as fire suppresion tested using a prototype Arduino-powered fire suppression system capable of changing spray patterns via data from sensors logged and interfaced into LabView

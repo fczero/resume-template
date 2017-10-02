@@ -1,16 +1,26 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# donutfinder.io
-- project: donutfinder.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Donut Locator is an open source node/ember app that lets users find donuts within a defined radius from their home.
+- project: automation-report
+  # role: Founder & Primary Developer
+  duration: 2017
+  url: "https://github.com/fczero/automation-report"
+  description: Jenkins cucumber report scraper using Python 3, OpenPyXL, Selenium, and Requests.
 
-#Springfield Donut Eater's User Group
-- project: Springfield Donut Eater's User Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: DEUG is a local monthly meetup in Springfield where we share all the latest tips and tricks for dat donut lifestyle. I organize the group, and typically eat most of the donuts.
+- project: MMT_Regression_automation
+  # role: Co-Founder & Organizer
+  duration: 2016
+  url: "https://github.com/fczero/MMT_Regression_automation"
+  description: Test automation for a Windows custom wireshark application using Python 2.7 and Robot Framework
+
+- project: DBinfo
+  # role: Co-Founder & Organizer
+  duration: 2016
+  url: "https://github.com/fczero/DBinfo"
+  description: SQLite DB extractor for Maintenance Tool (MT)
+
+- project: MT_Testing
+  # role: Co-Founder & Organizer
+  duration: 2016
+  url: "https://github.com/fczero/MT_Testing"
+  description: Test automation for Maintenance Tool (MT) using Python 3 and Robot Framework
